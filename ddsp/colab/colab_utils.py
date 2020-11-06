@@ -22,7 +22,7 @@ import pickle
 import ddsp
 import ddsp.training
 from IPython import display
-import note_seq
+import note_seq2
 import numpy as np
 from scipy import stats
 from scipy.io import wavfile
